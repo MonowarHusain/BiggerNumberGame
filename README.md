@@ -1,4 +1,4 @@
-# CSE489: Mobile Application Development
+# CSE489: ANDROID APP DEVELOPMENT
 
 ## Homework 1: Bigger Number Game
 
