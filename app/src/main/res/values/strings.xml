@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BiggerNumberGame</string>
+    <string name="game_title">Bigger Number Game</string>
+    <string name="game_instructions">Tap the button with the larger number to earn points!</string>
+    <string name="default_number">0</string>
+    <string name="default_points">Points: 0</string>
+    <string name="points_format">Points: %1$d</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="wrong_toast">Wrong!</string>
+</resources>
