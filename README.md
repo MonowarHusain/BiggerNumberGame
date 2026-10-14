@@ -81,7 +81,7 @@ BiggerNumberGame/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<YOUR_GITHUB_USERNAME>/BiggerNumberGame.git
+   git clone https://github.com/<MonowarHusain>/BiggerNumberGame.git
    cd BiggerNumberGame
    ```
 2. **Open in Android Studio:**
